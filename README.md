@@ -243,4 +243,4 @@ This repository serves as the official landing page for mGBA. The software is di
 **Get the most recent version of mGBA today!**
 
 ---
-**Last updated:** 2026-10-08 08:38:23 UTC
+**Last updated:** 2026-10-08 16:14:40 UTC
